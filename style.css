@@ -1,1 +1,26 @@
 
+  body {
+    background-color: #FF69B4; /* Bright pink background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #FFFFFF; /* White boxes for text */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  h1, p {
+    margin: 0 0 20px 0;
+  }
+  h1 {
+    color: #333;
+  }
+  p {
+    color: #666;
+  }
+
